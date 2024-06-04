@@ -1,7 +1,7 @@
 
 Steps to Install
 
-Import the sucessor_db in PHPmyAdmin, Name it sucessor_db then press create then click import at the top menu then select the sucessor_db file
+Import the sucessor_db in PHPmyAdmin, Name it sucessor_db <----(just copy the name) then press create then click import at the top menu then select the sucessor_db file
 
 !!Important Note!!
 
